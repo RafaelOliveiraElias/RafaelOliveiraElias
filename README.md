@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rafael Oliveira Elias</h1>
 <h3 align="center">A passionate full-stack developer student from Brazil</h3>
 
-- 🌱 I’m currently learning **NodeJS, C#, .NET**
-
 - 👨‍💻 My projects are available at [https://rafaeloliveiraelias.github.io/](https://rafaeloliveiraelias.github.io/)
 
-- 💬 Ask me about **React, Redux, context API, HTML, CSS, Javascript, Docker, SQL, ANGULAR**
+- 💬 Ask me about **React, Redux, context API, HTML, CSS, Javascript, Docker, SQL, ANGULAR, NodeJS, C#, .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
