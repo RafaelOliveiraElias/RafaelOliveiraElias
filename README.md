@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer student from Brazil</h3>
 
 
-- 💬 Ask me about **React, Redux, context API, HTML, CSS, Javascript, Docker, SQL, ANGULAR, NodeJS, C#, .NET**
+- 💬 Ask me about **  C#, .NET, React, Redux, NodeJS, HTML, CSS, Javascript, Docker, SQL, ANGULAR **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
